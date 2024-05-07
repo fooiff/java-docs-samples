@@ -41,7 +41,7 @@
     <endpoints.framework.version>2.2.2</endpoints.framework.version>
     <endpoints.management.version>1.0.14</endpoints.management.version>
 
-    <endpoints.project.id>YOUR_PROJECT_ID</endpoints.project.id>
+    <endpoints.project.id>shooting-f1a65</endpoints.project.id>
   </properties>
 
   <dependencies>
